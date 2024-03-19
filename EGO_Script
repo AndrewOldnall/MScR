@@ -1,5 +1,6 @@
-Attached below is the script used to detect EGOs within Images.
+Attached below is the script used to detect EGOs within Images. I used Jupyter notebook and each cell is denoted as such. Copy and paste cell 1 into cell 1 on Jupyter and run it.
 
+#Cell 1
 import os
 import glob
 import shutil
